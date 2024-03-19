@@ -43,3 +43,7 @@ form {
   margin-top: 20px;
   font-size: 17px;
 }
+
+.error-message {
+  color: red;
+}
